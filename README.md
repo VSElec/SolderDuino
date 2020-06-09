@@ -1,6 +1,6 @@
 # SolderDuino
 Arduino shield soldering station for Weller RT/RTM tips with 0.96" OLED display
-![alt text](C:\Users\Stefano\Documents\GitHub\SolderDuino\DOC\SolderDuinoPCB (1).JPG?raw=true)
+![alt text](https://github.com/VSElec/SolderDuino/blob/master/DOC/SolderDuinoPCB%20(1).JPG?raw=true)
 
 As an electronics enthusiast I am fortunate to work in the electronics field and I have started welding the first components with a soldering station from Weller.
 By developing electronics projects even at home, the expense of a soldering station like that of Weller is not justified so following various projects of other soldering stations I have built myself.
