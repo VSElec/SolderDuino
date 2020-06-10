@@ -18,7 +18,7 @@ I opted to make a shield that adapts to Arduino for simplicity and cost.
 -	PID regulation;
 -	Personalized settings; 
 -	Save in eeprom of temperatures, PID and shutdown time;
--	rotection for low voltage, high temperature, polarity inversion and tip not connected.
+-	Protection for low voltage, high temperature, polarity inversion and tip not connected.
 
 **Specifications:**
 -	Supply voltage range: 12V ÷ 13V (if it drops below 11 volts the PWM is turned off);
